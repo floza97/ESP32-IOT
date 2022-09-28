@@ -13,6 +13,10 @@ GUIA DE CONFIGURACION ARDUINO IDE Y ESP32
   -Archivo
     -Preferencia
       -gestor de url adiciones de targetas  pegar el siguiente link: https://dl.espressif.com/dl/package_esp32_index.json
+      -ir a herramientas 
+        -gestionar librerias
+          -escribir en el la barra de busqueda ESP32
+            -instalar y esperar la descarga
   
 #seleccionar placa:
   -ir a herramientas-palca-ESP32 ARDUINO
