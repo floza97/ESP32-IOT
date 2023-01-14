@@ -4,7 +4,7 @@ Prototipo para la medición de variables físico químicas en cultivos de arroz 
   Diego Andres Florez
   Medardo Vergara Tovar
 @Programa de ingenieria de sistemas.
-@Corporacion univercitaria remington.
+@Corporacion universitaria remington.
 ------------------------------------------------------------------------------------------------------------------
 
 GUIA DE CONFIGURACION ARDUINO IDE Y ESP32 
